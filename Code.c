@@ -23,7 +23,7 @@ int main()
     printf("\nThe roots are imaginary\n");
     d = sqrt((b*b-4*a*c)*-1);
     
-    printf("The roots are: %0.2f + %0.2fi and %0.2f - %0.2fi",-b/2,d/2,-b/2,d/2);
+    printf("The roots are: %0.2f + %0.2fi and %0.2f - %0.2fi\n",-b/2,d/2,-b/2,d/2);
   
     }
     else if((b*b-4*a*c)>0 )
@@ -31,7 +31,7 @@ int main()
     printf("\nThe roots are real\n");
     d = sqrt((b*b-4*a*c));
     
-    printf("The roots are: %0.2f and %0.2f ",-b/2+d/2,-b/2-d/2);
+    printf("The roots are: %0.2f and %0.2f \n",-b/2+d/2,-b/2-d/2);
 
     }
    else if((b*b-4*a*c)==0 )
@@ -39,7 +39,7 @@ int main()
     printf("\nThe roots are real and equal\n");
     d = sqrt((b*b-4*a*c));
     
-    printf("The root is : %0.2f ",-b/2+d/2);
+    printf("The root is : %0.2f\n ",-b/2+d/2);
 
     }
 
