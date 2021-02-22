@@ -1,4 +1,4 @@
-# Quadratic Root Calculator
+# Quadratic Equation Calculator
 This is a Simple Calculator to calculate the roots of a Quadratic Equation
 
 ### For Linux
