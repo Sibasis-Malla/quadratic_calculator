@@ -1,7 +1,7 @@
-### Quadratic Root Calculator
+# Quadratic Root Calculator
 This is a Simple Calculator to calculate the roots of a Quadratic Equation
 
-# For Linux
+### For Linux
 Write the code one by one in the Terminal
 
 1. `sudo apt install gcc`<br>
