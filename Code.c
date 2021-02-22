@@ -4,7 +4,7 @@
 int main()
 {
     float a , b, c,d,root;
-    printf("Welcome To Quadratic Calculator\n")';
+    printf("Welcome To Quadratic Calculator\n");
     printf("==================================\n");
     printf("A quadratic equation is in the form : ax^2+bx+c=0\n");
 
